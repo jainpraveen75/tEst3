@@ -3,3 +3,17 @@
 ################################################################################
 
 /WebApp
+/Service
+/packages
+/Infrastructure
+/Data
+/Core
+/BSFCode
+/BSF.API
+/BSF
+/Bootstrapper
+/.vs
+/BSF.vssscc
+/BSF.v12.suo
+/BSF.sln.DotSettings.user
+/BSF.sln
