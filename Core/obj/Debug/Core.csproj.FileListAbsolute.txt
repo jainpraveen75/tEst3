@@ -1,0 +1,13 @@
+D:\Projects\BSF\Core\bin\Debug\Core.dll
+D:\Projects\BSF\Core\bin\Debug\Core.pdb
+D:\Projects\BSF\Core\obj\Debug\Core.dll
+D:\Projects\BSF\Core\obj\Debug\Core.pdb
+D:\Projects\BSF\BSFGEOINT\WebApp\Core\bin\Debug\Core.dll
+D:\Projects\BSF\BSFGEOINT\WebApp\Core\bin\Debug\Core.pdb
+D:\Projects\BSF\BSFGEOINT\WebApp\Core\obj\Debug\Core.dll
+D:\Projects\BSF\BSFGEOINT\WebApp\Core\obj\Debug\Core.pdb
+E:\BSF\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+E:\BSF\Core\obj\Debug\Core.dll
+E:\BSF\Core\obj\Debug\Core.pdb
+E:\BSF\Core\bin\Debug\Core.dll
+E:\BSF\Core\bin\Debug\Core.pdb
